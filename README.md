@@ -130,4 +130,9 @@ This tool uses a Python translation of <a href="https://github.com/gap-system/ga
 # Creation Process
 The creation of **hunter-pusher.py** is documented in the Building an Alphanumeric Encoder series at: <a href="https://datkev.github.io" target="_blank">https://datkev.github.io</a>
 
-<a href="https://datkev.github.io/page/building-an-alphanumeric-encoder-part-3" target="_blank">Part 3</a> of the series is dedicated to code logic.
+- [Building an Alphanumeric Encoder Part 1 - The Manual Method](https://datkev.github.io/page/building-an-alphanumeric-encoder-part-1)
+- [Building an Alphanumeric Encoder Part 2 - Integer Partitions](https://datkev.github.io/page/building-an-alphanumeric-encoder-part-2)
+- [Building an Alphanumeric Encoder Part 3 - Building the Encoder](https://datkev.github.io/page/building-an-alphanumeric-encoder-part-3)
+- [Building an Alphanumeric Encoder Part 4 - Testing the Encoder](https://datkev.github.io/page/building-an-alphanumeric-encoder-part-4)
+
+Part 3 of the series is dedicated to code logic.
